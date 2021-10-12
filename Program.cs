@@ -12,7 +12,8 @@ namespace Line_Comparison_day_8
         {
             //Console.WriteLine("Welcome to line comparison");
             // UC1Linelength.LenghtOfSingleLine();
-            UC2Equalityofline.Equalityofline();
+            //UC2Equalityofline.Equalityofline();
+            UC3Comparisonofline.Comparisonofline();
         }
     }
 }
