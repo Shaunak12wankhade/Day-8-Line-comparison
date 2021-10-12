@@ -10,7 +10,9 @@ namespace Line_Comparison_day_8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to line comparison");
+            //Console.WriteLine("Welcome to line comparison");
+            // UC1Linelength.LenghtOfSingleLine();
+            UC2Equalityofline.Equalityofline();
         }
     }
 }
