@@ -13,7 +13,11 @@ namespace Line_Comparison_day_8
             //Console.WriteLine("Welcome to line comparison");
             // UC1Linelength.LenghtOfSingleLine();
             //UC2Equalityofline.Equalityofline();
-            UC3Comparisonofline.Comparisonofline();
+            //UC3Comparisonofline.Comparisonofline();
+            UC4Compare2lengths obj = new UC4Compare2lengths();
+            obj.userinput();
+            obj.calculation();
+            obj.comparison();
         }
     }
 }
